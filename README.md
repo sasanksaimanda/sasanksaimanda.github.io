@@ -177,9 +177,9 @@
 					<h3>
 						<a href="#">Social Media</a>
 					<p>
-                        <a href=https://www.instagram.com/sasanksaimanda/>instagram - click here</a> 
+                        <a href=https://www.instagram.com/sasanksaimanda>instagram - click here</a> 
                      
-                        <a href=https://www.facebook.com/profile.php?id=100075106603862>facebook - click here</a> 
+                        <a href=https://www.facebook.com/profile.php?id100075106603862 >facebook - click here</a> 
                         </p>
                         </h3>
 					
