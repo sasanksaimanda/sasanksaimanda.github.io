@@ -121,7 +121,8 @@
                             </h3>
                     <h3>
                         <a href="#">Hobbies</a>
-                        <p> POSTER MAKING ,CONTENT WRITING ,Music and Movies</p>
+                        <p> POSTER MAKING ,CONTENT WRITING ,Music and Movies.                                                                                     
+			    .</p>
                         </h3>
 
 
@@ -177,10 +178,10 @@
 					<h3>
 						<a href="#">Social Media</a>
 					<p>
-                        <a href="#">instagram </a> 
+                        <a href=https://www.instagram.com/sasanksaimanda />instagram </a> 
 						<p> sasankkkk </p>
                      
-                        <a href=https://www.facebook.com/profile.php?id=100075106603862 >facebook - click here</a> 
+                        <a href=https://www.facebook.com/profile.php?id =100075106603862 >facebook - click here</a> 
                         </p>
                         </h3>
 					
