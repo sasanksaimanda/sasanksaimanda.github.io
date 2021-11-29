@@ -96,7 +96,7 @@
 	</style>
 </head>
 
-<body style="background-color: wheat;"
+<body style="background-color: wheat;">
 	
 	<!-- title and tag -->
 	<div class="container">
@@ -177,7 +177,8 @@
 					<h3>
 						<a href="#">Social Media</a>
 					<p>
-                        <a href=https://www.instagram.com/sasanksaimanda/>instagram - click here</a> 
+                        <a href="#">instagram </a> 
+						<p> sasankkkk </p>
                      
                         <a href=https://www.facebook.com/profile.php?id=100075106603862 >facebook - click here</a> 
                         </p>
