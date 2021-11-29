@@ -30,7 +30,7 @@
 		}
 		
 		h1 {
-			color: rgba(7, 182, 30, 0.308);
+			color: black ;
 		}
 		
 		/* anchor tag decoration */
@@ -96,7 +96,7 @@
 	</style>
 </head>
 
-<body style="background-color: wheat;">
+<body style="background-color: wheat;"
 	
 	<!-- title and tag -->
 	<div class="container">
@@ -109,7 +109,7 @@
 
 		<!-- Content of the body-->
 		<h2>ABOUT ME</h2>
-        <p>Myself Sasank sai manda i'm pursuing engineering at VIT-AP. i studied at sri chaitanya institutions and completed my 10TH and 12TH classes . I have a little knowledge of poster making and content writing. i'm intrested in web development.I'm patient at work and learning . I'm a fast learner .
+        <p>Myself Sasank sai manda i'm pursuing engineering at VIT-AP. i studied at sri chaitanya institutions and completed my 10TH and 12TH classes . I have a little knowledge of poster making and content writing. i'm intrested in web development.
             i'm working with CSI as a special mention member and i'm looking forward to learn things and create . 
 
         </p>
@@ -121,8 +121,7 @@
                             </h3>
                     <h3>
                         <a href="#">Hobbies</a>
-                        <p> POSTER MAKING ,CONTENT WRITING ,MUSIC AND MOVIES AND COOKING .                                                                                     
-			    .</p>
+                        <p> POSTER MAKING ,CONTENT WRITING ,Music and Movies</p>
                         </h3>
 
 
@@ -178,10 +177,9 @@
 					<h3>
 						<a href="#">Social Media</a>
 					<p>
-                        <a href=https://www.instagram.com/sasanksaimanda/>instagram </a> 
-						<p> sasankkkk </p>
+                        <a href="https://www.instagram.com/sasanksaimanda/">instagram - click here</a> 
                      
-                        <a href=https://www.facebook.com/profile.php?id=100075106603862 >facebook - click here</a> 
+                        <a href="https://www.facebook.com/profile.php?id=100075106603862">facebook - click here</a> 
                         </p>
                         </h3>
 					
@@ -192,8 +190,7 @@
 
 				</div>
 			</div>
-		</div>
-	</div>	
+		
 	
 </body>
 
