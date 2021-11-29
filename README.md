@@ -96,8 +96,7 @@
 	</style>
 </head>
 
-<body style="background-color: wheat;"
-	
+<body>
 	<!-- title and tag -->
 	<div class="container">
 		<h1>MANDA SASANK SAI</h1>
