@@ -99,8 +99,8 @@
 <body>
 	<!-- title and tag -->
 	<div class="container">
-		<h1>MANDA SASANK SAI</h1>
-		<h3>Vellore instute of technology , AP , 2021-2025, CSE</h3>
+		<h1> Manda Sasank Sai </h1>
+		<h3>Vellore instute of technology , AP , 2021-2025, CSE CYBERTECH </h3>
         <img src=
 "https://lh3.googleusercontent.com/XdGQUc0wQwmiKuokyO5QK-fYTf6L05_u0HJdRLwpaU5aoaGQWKNEoHTsx_JTMbtkq-LYiw=s85"
 						alt="" style="width:20%">
@@ -108,9 +108,8 @@
 
 		<!-- Content of the body-->
 		<h2>ABOUT ME</h2>
-        <p>Myself Sasank sai manda i'm pursuing engineering at VIT-AP. i studied at sri chaitanya institutions and completed my 10TH and 12TH classes . I have a little knowledge of poster making and content writing. i'm intrested in web development.
-            i'm working with CSI as a special mention member and i'm looking forward to learn things and create . 
-
+        <p> I am Sasank sai manda i'm pursuing engineering at VIT-AP. i studied at sri chaitanya institutions and completed my 10TH and 12TH grades . I have knowledge in content writing , script writing , frontend development and intrested in Data analytics and Network security.
+           I have worked on csi ,social media commitie ,bioscope and newspaper clubs at VITap clubs and gained non technical knowledge in Documentation , content writing and communication 
         </p>
 		<div class="row">
 			<div class="column">
@@ -120,7 +119,7 @@
                             </h3>
                     <h3>
                         <a href="#">Hobbies</a>
-                        <p> POSTER MAKING ,CONTENT WRITING ,Music and Movies</p>
+                        <p> surfing web,learning things,Music and Movies</p>
                         </h3>
 
 
@@ -158,7 +157,7 @@
                         </p>
 					</h3>
                     <a href="#">Mail </a>
-                    <p>sasanksaimanda@gmail.com</p>
+                    <p>sasankmanda8@gmail.com</p>
 					
 					
 
@@ -176,9 +175,9 @@
 					<h3>
 						<a href="#">Social Media</a>
 					<p>
-                        <a href="https://www.instagram.com/sasanksaimanda/" >instagram - click here</a> 
+                        <a href="https://www.instagram.com/sasankkkk/" >instagram - click here</a> 
                      
-                        <a href="https://www.facebook.com/profile.php?id=100075106603862">facebook - click here</a> 
+                        <a href="https://www.linkedin.com/mwlite/in/sasank-manda-4a3383227#image-modal">LinkedIn - click here</a> 
                         </p>
                         </h3>
 					
@@ -193,4 +192,4 @@
 	
 </body>
 
-</html>		
+</html>	
