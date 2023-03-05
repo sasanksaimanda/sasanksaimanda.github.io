@@ -136,9 +136,9 @@
 					
 
                         <p> HTML5 
-		            CSS
-			    JAVA 
-			    COMMUNICATION
+		            CSS ,
+			    JAVA ,
+			    COMMUNICATION ,
 			    CONTENT AND SCRIPT WRITING	
                                       </p>
 
