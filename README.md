@@ -119,7 +119,7 @@
                             </h3>
                     <h3>
                         <a href="#">Hobbies</a>
-                        <p> surfing web,learning things,Music and Movies</p>
+                        <p> Surfing web,Learning things,Music and Movies</p>
                         </h3>
 
 
@@ -131,15 +131,16 @@
 					<img src=
 "https://i2.wp.com/geoawesomeness.com/wp-content/uploads/2017/09/Coding-Geospatial.jpg?fit=1152%2C768&ssl=1"
 						alt="" style="width:100%">
-                        <a href="#">Skills</a>
+                        <a href="#"> Skills </a>
 					
 					
 
-                        <p>
-                                            LEARNING PYTHON,
-                                            HTML AND CSS  ,
-                                            FIGMA AND PTT 
-                                                    </p>
+                        <p> HTML5 
+		            CSS
+			    JAVA 
+			    COMMUNICATION
+			    CONTENT AND SCRIPT WRITING	
+                                      </p>
 
 
 				</div>
