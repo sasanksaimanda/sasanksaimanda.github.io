@@ -1,5 +1,4 @@
 # portfolio
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -109,15 +108,15 @@
 		<!-- Content of the body-->
 		<h2>ABOUT ME</h2>
         <p> I am Sasank sai manda i'm pursuing engineering at VIT-AP. i studied at sri chaitanya institutions and completed my 10TH and 12TH grades . I have knowledge in content writing , script writing , frontend development and intrested in Data analytics and Network security.
-           I have worked on csi ,social media commitie ,bioscope and newspaper clubs at VITap clubs and gained non technical knowledge in Documentation , content writing and communication 
+           I have worked on csi ,social media committee ,bioscope and newspaper clubs at VITap clubs and gained non technical knowledge in Documentation , content writing and communication 
         </p>
 		<div class="row">
 			<div class="column">
 				<div class="content">
 					
 					
-                            </h3>
-                    <h3>
+                            
+                    
                         <a href="#">Hobbies</a>
                         <p> Surfing web,Learning things,Music and Movies</p>
                         </h3>
