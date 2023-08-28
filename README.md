@@ -102,8 +102,8 @@
 		<h1> Manda Sasank Sai </h1>
 		<h3>Vellore instute of technology , AP , 2021-2025, CSE CYBERTECH </h3>
         <img src=
-"https://lh3.googleusercontent.com/XdGQUc0wQwmiKuokyO5QK-fYTf6L05_u0HJdRLwpaU5aoaGQWKNEoHTsx_JTMbtkq-LYiw=s85"
-						alt="" style="width:20%">
+"[https://lh3.googleusercontent.com/XdGQUc0wQwmiKuokyO5QK-fYTf6L05_u0HJdRLwpaU5aoaGQWKNEoHTsx_JTMbtkq-LYiw=s8](https://media.licdn.com/dms/image/D5603AQFWM_GefLsJ7Q/profile-displayphoto-shrink_800_800/0/1682304737772?e=2147483647&v=beta&t=EC39YGHtaSbPPaUSEHcKi1uz0AJbhkPUPbqVAEbXUq0)"
+						alt="" style="width:50%">
 		<hr>
 
 		<!-- Content of the body-->
